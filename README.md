@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @AsterGTheFourth, I'm a new GitHub user.
+- 👋 Hi, I’m @2Schoolhouse, I'm a GitHub user.
 - 👀 I’m interested in FNF modding and drawing.
 - 🌱 I’m currently learning Lua and Krita.
 - 💞️ I’m looking to collaborate on FNF mods.
 - 📫 How to reach me:
 
--@AsterGTheFourth on Twitter
+-@2Schoolhouse on Twitter
 
 <!---
 AsterGTheFourth/AsterGTheFourth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
