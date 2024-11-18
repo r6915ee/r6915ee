@@ -1,7 +1,8 @@
-Artist, charter and programmer working on various things like mods or standalone projects.
+# PetscopF
 
-I program primarily using Haxe, Python, and Lua.
-
-I don't use Github as a whole much, I just use it mainly for Git but also other things.
+* I'm an artist, charter (particularly for FNF) and programmer.
+* Videogame enthusiast. My notable favorite genres include action, roleplaying, and especially horror.
+* I'm in quite a few fandoms.
+* AroAce.
 
 [![PetscopF's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetscopF)](https://github.com/anuraghazra/github-readme-stats)
