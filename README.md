@@ -1,7 +1,7 @@
 # rufius (r6915ee)
 
 * I'm an artist, charter (particularly for FNF) and programmer. Some languages
-I have programmed in before are **C**, **Haxe**, and **Lua**.
+I have programmed in before are **Rust**, **C**, **Haxe**, and **Lua**.
 * Videogame enthusiast. My notable favorite genres include action,
 roleplaying, and especially horror. Horror is something that I like very much
 in general.
