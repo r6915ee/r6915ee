@@ -1,3 +1,7 @@
+## My main repositories are now on [Codeberg](https://codeberg.org/r6915ee/), due to GitHub's support for AI extending to replacement and overall lack of humanity. Check [this discussion](https://github.com/orgs/community/discussions/159749) for more details.
+
+Any repositories from Codeberg will be mirrored, but no official support will be provided over here.
+
 # rufius (r6915ee)
 
 * I'm an artist, charter (particularly for FNF) and programmer. Some languages
